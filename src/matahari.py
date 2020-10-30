@@ -23,14 +23,14 @@ heder = {'Host': 'thor.matahari.com',
            'accept-encoding': 'gzip, deflate, br',
            'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,ms;q=0.6'}
 
-data = {'emailAddress': 'noobie@mail.com',
-           'firstName': 'Noobie',
+data = {'emailAddress': 'meilzber6@gmailcom',
+           'firstName': 'jancuk',
            'lastName': 'Gans',
            'mobileNumber': no,
            'mccCardNumber': '',
-           'password': 'asecc123',
+           'password': 'Akmal_12',
            'referralCode': '',
-           'dateOfBirth': '09-05-1993',
+           'dateOfBirth': '02-04-2003',
            'gender': 'Male',
            'registrationType': 'N'}
 
